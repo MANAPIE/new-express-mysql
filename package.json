@@ -1,6 +1,6 @@
 {
   "name": "manapie-api",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "scripts": {
     "start": "NODE_ENV=production node --max-http-header-size=80000 ./bin/www",
     "start:dev": "NODE_ENV=development node ./bin/www",
